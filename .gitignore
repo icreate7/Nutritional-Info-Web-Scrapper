@@ -1,0 +1,31 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+
+# Virtual environment folders
+.venv/
+venv/
+env/
+ENV/
+
+# Editor and IDE folders
+.vscode/
+.idea/
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Log files
+*.log
+
+# Scraped data files (CSV, JSON, etc.)
+*.csv
+*.json
+
+# Environment variables and config files with credentials
+.env
+
+# ChromeDriver and other webdriver executables
+chromedriver.exe
+chromedriver
